@@ -2,7 +2,7 @@
 
 Student repository for **Operating Systems 2** course.
 
-### Task 1
+### [https://github.com/jf3112/SO2/tree/main/lab1](Task 1)
 
 ### Task 2
 
