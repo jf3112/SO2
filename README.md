@@ -3,7 +3,7 @@
 Student repository for **Operating Systems 2** course.
 
 ### [Task1](/lab1)
-+1.0 – napisać skrypt, który pobiera 3 argumenty: SOURCE_DIR, RM_LIST, TARGET_DIR o wartościach domyślnych: lab_uno, 2remove, bakap - [x]
+- [x] +1.0 – napisać skrypt, który pobiera 3 argumenty: SOURCE_DIR, RM_LIST, TARGET_DIR o wartościach domyślnych: lab_uno, 2remove, bakap 
 
 +0.5 – jeżeli TARGET_DIR nie istnieje, to go tworzymy - [x]
 
