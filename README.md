@@ -2,7 +2,7 @@
 
 Student repository for **Operating Systems 2** course.
 
-### [Task1](SO2/tree/main/lab1)
+### [Task1](/lab1)
 
 ### Task 2
 
