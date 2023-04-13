@@ -5,9 +5,9 @@ Student repository for **Operating Systems 2** course.
 ![](https://cdn.discordapp.com/attachments/1071914685416341654/1084238637920698519/i8wiq9ddhrx71.png)
 
 ### [Task1](/lab1)
-- [x] +1.0 – Write a script that takes 3 arguments: SOURCE_DIR, RM_LIST, TARGET_DIR with default values of lab_uno, 2remove, and bakap, respectively.
+ +1.0 – Write a script that takes 3 arguments: SOURCE_DIR, RM_LIST, TARGET_DIR with default values of lab_uno, 2remove, and bakap, respectively.
 
-- [x] +0.5 – If TARGET_DIR does not exist, we create it.
+- :heavy_check_mark: +0.5 – If TARGET_DIR does not exist, we create it.
 
 - [x] +1.0 – We iterate through the contents of the RM_LIST file, and only if a file with that name exists in the SOURCE_DIR directory, we delete it.
 
