@@ -4,7 +4,7 @@ Student repository for **Operating Systems 2** course.
 
 ![](https://cdn.discordapp.com/attachments/1071914685416341654/1084238637920698519/i8wiq9ddhrx71.png)
 
-### [Task1](/lab1)
+### [Laboratory 1](/lab1)
 :heavy_check_mark: +1.0 – Write a script that takes 3 arguments: SOURCE_DIR, RM_LIST, TARGET_DIR with default values of lab_uno, 2remove, and bakap, respectively.
 
 :heavy_check_mark: +0.5 – If TARGET_DIR does not exist, we create it.
@@ -19,11 +19,15 @@ Student repository for **Operating Systems 2** course.
 
 :heavy_check_mark: +0.5 – After all operations, compress the TARGET_DIR directory and name the resulting archive bakap_DATA.zip, where DATA is the date the script was run in the format YYYY-MM-DD.
 
-### [Task 2](/lab2)
+### [Laboratory 2](/lab2)
 
-### Task 3
+:heavy_check_mark: task 1
 
-### Task 4
+:heavy_check_mark: task 2
+
+### Laboratory 3
+
+### Laboratory 4
 
 
 
