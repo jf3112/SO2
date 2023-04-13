@@ -41,11 +41,6 @@ for FILE in ${DIR_1}/*; do
         echo "${FILENAME} is a file"
         ln -s ${DIR_1}/${FILENAME} ${DIR_2}/${FILENAME^^}
 
-        Y=${FILENAME}
-        Y+="_ln"
-        
-        echo "${Y}"
-
     elif [[ -d ${FILE} ]]; then
 
         echo "${FILENAME} is a directory"
