@@ -27,6 +27,36 @@ Student repository for **Operating Systems 2** course.
 
 ### Laboratory 3
 
+##### Task 1
+
+:heavy_check_mark: Find 10 unique IP addresses in the access_log file.
+
+:heavy_check_mark: Find requests in the access_log file that contain the phrase "denied" in the link.
+
+:heavy_check_mark: Find requests in the access_log file that were sent from the IP address: 64.242.88.10.
+
+:heavy_check_mark: Find unique requests of type DELETE in the access_log file.
+
+##### Task 2
+
+:heavy_check_mark: Print all those whose id is an odd number. Save the results to the standard error output.
+
+:heavy_check_mark: From the file yolo.csv, print each IP number that has one digit in the first and second octet. Save the results to the standard error output.
+
+##### Task 3
+
+:heavy_check_mark: In all files in the 'groovies' directory, replace $HEADER$ with /subject/.
+
+:heavy_check_mark: In all files in the 'groovies' directory, remove lines containing the phrase 'Help docs:'.
+
+##### Task 4
+
+:heavy_check_mark: Run the script fakaping.sh, redirect the standard output to null, and sort the errors (without removing duplicates).
+
+:heavy_check_mark: Run the script fakaping.sh, capture all errors containing 'permission denied' (case-insensitive), print them to the console, and save them to the file denied.log. Results should be unique.
+
+:heavy_check_mark: Run the script fakaping.sh and save all unique lines to the file all.log and print them to the console.
+
 ### Laboratory 4
 
 
