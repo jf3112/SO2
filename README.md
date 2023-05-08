@@ -25,9 +25,9 @@ Student repository for **Operating Systems 2** course.
 
 :heavy_check_mark: Task 2
 
-### Laboratory 3
+### [Laboratory 3](/lab3/)
 
-##### Task 1
+#### Task 1
 
 :heavy_check_mark: Find 10 unique IP addresses in the access_log file.
 
@@ -37,19 +37,19 @@ Student repository for **Operating Systems 2** course.
 
 :heavy_check_mark: Find unique requests of type DELETE in the access_log file.
 
-##### Task 2
+#### Task 2
 
 :heavy_check_mark: Print all those whose id is an odd number. Save the results to the standard error output.
 
 :heavy_check_mark: From the file yolo.csv, print each IP number that has one digit in the first and second octet. Save the results to the standard error output.
 
-##### Task 3
+#### Task 3
 
 :heavy_check_mark: In all files in the 'groovies' directory, replace $HEADER$ with /subject/.
 
 :heavy_check_mark: In all files in the 'groovies' directory, remove lines containing the phrase 'Help docs:'.
 
-##### Task 4
+#### Task 4
 
 :heavy_check_mark: Run the script fakaping.sh, redirect the standard output to null, and sort the errors (without removing duplicates).
 
